@@ -1,18 +1,28 @@
 # Animata Systems
 
-Building a language, operating system, ecosystem, and devices for the next generation of autonomous agents.
+Building the foundational layers for a world where humans and autonomous agents coexist, collaborate, and evolve together.
 
 ---
 
-```
-COIL        · A language for building next-generation autonomous agents
-Cora OS     · An OS where agents become applications, processes, and participants
-SymbioRank  · A global system for human-agent coexistence
-Devices     · Agent devices for learning and everyday life
-```
+## Brand Architecture
+
+### Foundation
+
+**COIL** · A protocol language for enterprise-ready autonomous agents  
+[Language Specification](https://github.com/animata-systems/coil) · [COIL 2027 Project](https://coil2027.com/)
+
+### Infrastructure
+
+**Corazon Network** · A distributed network connecting agents, participants, and execution environments
+
+### Operating Environment
+
+**Cora OS** · A user-facing operating environment where agents become applications, processes, and participants
+
+## Future Directions
+
+Animata Systems is also exploring future ecosystem layers for distributed reputation, trust, and human-agent coordination.
 
 ---
-
-A world where humans and autonomous agents coexist, collaborate, and evolve together.
 
 [animatasystems.com](https://animatasystems.com)
